@@ -21,11 +21,6 @@ header{
 }
 
 /* Nav start */
-.menu {}
-
-.menu ul {}
-
-.menu ul li {}
 
 .menu ul li a {
     padding: 0 24px !important;
@@ -110,36 +105,3 @@ header{
 
 /* Modal end */
 /* Header End */
-/* Banner start */
-.banner{
-    background-color: #F0FFF0;
-    
-}
-.banner-text{
-    padding: 89px 35px 0 20px;
-    /* padding: 0 62px; */
-
-}
-.b-f-t{
-color:#FD511A;
-}
-.b-f-h{
-    font-size: 48px;
-    font-weight: 700;
-    line-height: 70px;
-}
-.b-f-c{
- color:#21B573;
-}
-.b-para{
-    line-height: 36px;  
-}
-.btn-start{
-    padding:12px 36px;
-    margin-bottom: 63px;
-}
-.banner-img{
- margin-top: 65px;
-}
-
-/* Banner End */
