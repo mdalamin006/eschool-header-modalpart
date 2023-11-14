@@ -1,0 +1,149 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px)  { 
+/* Header Start */
+.margin-small{
+    margin-bottom: 10px !important;
+}
+.btn-sign {
+    margin-left: 19px;
+    padding: 6px 15px;
+}
+.mb-2 {
+    margin-bottom: 10px !important;
+}
+.modal-img {
+    margin: 0;
+}
+.header-custom{
+    padding:6px 0;
+}
+.modal-head {
+    font-size: 22px;
+}
+.custom-input {
+    min-height: calc(2.7rem + calc(var(--bs-border-width) * 2)) !important;
+    height: 26px !important;
+}
+.custom-float{
+    font-size: 14px;
+    padding: 12px 10px;
+}
+.btn-modal {
+    border-radius: 7px;
+    /* margin: 23px 27% 0; */
+    padding: 11px 0px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 10px;
+}
+.modal-text {
+    margin-top: 10px !important;
+    margin-bottom: 5px !important;
+}
+.link-modal {
+    font-size: 16px;
+    margin-top: 7px !important;
+
+}
+
+/* Header End */
+
+    /* Banner start */
+.banner-text{
+    padding: 16px 0 0 9px;
+    /* padding: 0 62px; */
+}
+.b-f-t{
+    margin-bottom: 10px;
+    }
+.b-f-h{
+    font-size: 35px;
+   
+    line-height: 45px;
+}
+.b-para{
+    line-height: 29px;
+}
+.btn-start{
+    padding: 9px 23px;
+    margin-bottom: 31px;
+}
+.banner-img{
+    margin-top: 20px;
+   }
+   
+/* Banner End */
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* Header Start */
+.margin-small{
+    margin-bottom: 10px !important;
+}
+.btn-sign {
+    margin-left: 19px;
+    padding: 6px 15px;
+}
+.mb-2 {
+    margin-bottom: 10px !important;
+}
+.modal-img {
+    margin: 0;
+}
+.header-custom{
+    padding:6px 0;
+}
+.modal-head {
+    font-size: 22px;
+}
+.custom-input {
+    min-height: calc(2.7rem + calc(var(--bs-border-width) * 2)) !important;
+    height: 26px !important;
+}
+.custom-float{
+    font-size: 14px;
+    padding: 12px 10px;
+}
+.btn-modal {
+    border-radius: 7px;
+    /* margin: 23px 27% 0; */
+    padding: 11px 0px;
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px 10px;
+}
+.modal-text {
+    margin-top: 10px !important;
+    margin-bottom: 5px !important;
+}
+.link-modal {
+    font-size: 16px;
+    margin-top: 7px !important;
+
+}
+
+/* Header End */
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Start */
+.margin-small{
+    margin-bottom: 10px !important;
+}
+.btn-sign {
+    margin-left: 20px;
+    padding: 8px 22px;
+}
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+ }
+
+/* Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+}
