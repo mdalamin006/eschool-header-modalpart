@@ -48,31 +48,7 @@
 
 /* Header End */
 
-    /* Banner start */
-.banner-text{
-    padding: 16px 0 0 9px;
-    /* padding: 0 62px; */
-}
-.b-f-t{
-    margin-bottom: 10px;
-    }
-.b-f-h{
-    font-size: 35px;
-   
-    line-height: 45px;
-}
-.b-para{
-    line-height: 29px;
-}
-.btn-start{
-    padding: 9px 23px;
-    margin-bottom: 31px;
-}
-.banner-img{
-    margin-top: 20px;
-   }
-   
-/* Banner End */
+ 
 }
 
  /* Small devices (landscape phones, 576px and up) */
